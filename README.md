@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MgZayarNaing.
+- 👋 Hi, I’m Zayar Naing.
 - 👀 I’m interested in Django, React, ReactNative & Nextjs.
 - 🌱 I’m currently learning Django, Nextjs & React.
 - 💞️ I’m collaborating on E-commerece, POS & Business Websites.
