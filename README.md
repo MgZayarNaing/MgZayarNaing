@@ -8,7 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ZayarNaing;I'm+22+years+old;I'm+from+Myanmar;I'm+Junior+Full+Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&bg_color=0d1117&color=ffffff&line=87ceeb&point=87ceeb&area=true&hide_border=true)](https://github.com/MgZayarNaing/github-readme-activity-graph)
+ ![ZayarNaing's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+
 
 <p align="center">
   <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=MgZayarNaing&column=6&theme=algolia" alt="ZayarNaing" /></p>
