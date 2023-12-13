@@ -9,13 +9,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ZayarNaing;I'm+22+years+old;I'm+from+Myanmar;I'm+Junior+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
+ <a href="mailto:zayarnaing.st@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ZayarNaing"/>
+ </a>
  <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ZayarNaing"/>
  </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ZayarNaing" />
  </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
+ <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://www.facebook.com/zayarnaing912" target="_blank">
