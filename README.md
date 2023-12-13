@@ -31,9 +31,8 @@
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MgZayarNaing&theme=algolia" alt="MgZayarNaing" /></p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=prakash4844&column=6&theme=algolia" alt="Prakash4844Trophy" /></p>
 
 
 
