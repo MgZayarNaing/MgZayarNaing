@@ -11,13 +11,14 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&bg_color=0d1117&color=ffffff&line=87ceeb&point=87ceeb&area=true&hide_border=true)](https://github.com/MgZayarNaing/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MgZayarNaing&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=MgZayarNaing&column=6&theme=algolia" alt="ZayarNaing" /></p>
 </p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MgZayarNaing&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MgZayarNaing&layout=compact&hide_border=true&title_color=fff&text_color=87ceeb&bg_color=0d1117" />
 </div>
+
 
 
 <div align="center"> 
