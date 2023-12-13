@@ -11,10 +11,6 @@
 ![ZayarNaing's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
-<p align="center">
-  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=MgZayarNaing&column=6&theme=algolia" alt="ZayarNaing" /></p>
-</p>
-
 ### 👨‍💻 Top Languages Used:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MgZayarNaing&theme=nord_dark" alt="Top Languages by Repo" />
@@ -29,9 +25,17 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MgZayarNaing&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MgZayarNaing&layout=compact&langs_count=8&theme=algolia"/>
 </a>
- <br />
-  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MgZayarNaing&theme=algolia" alt="MgZayarNaing" /></p>
+<br />
+
+<p align="center">
+  <a href="https://github.com/MgZayarNaing">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MgZayarNaing&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<p align="center">
+  <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=MgZayarNaing&column=6&theme=algolia" alt="ZayarNaing" /></p>
+</p>
 
 <div align="center"> 
 <a href = "mailto:zayarnaing.st@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
