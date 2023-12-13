@@ -6,7 +6,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ZayarNaing;I'm+22+years+old;I'm+from+Myanmar;I'm+Junior+Full+Stack+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ZayarNaing;I'm+22+years+old;I'm+from+Myanmar;I'm+Junior+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  ![ZayarNaing's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
@@ -22,10 +22,18 @@
 </p>
  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MgZayarNaing&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=0000ff&text_color=87ceeb&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MgZayarNaing&layout=compact&hide_border=true&title_color=fff&text_color=87ceeb&bg_color=0d1117" />
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/MgZayarNaing">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MgZayarNaing&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MgZayarNaing&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+ <br />
+  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash4844&theme=algolia" alt="Prakash4844" /></p>
+
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=prakash4844&column=6&theme=algolia" alt="Prakash4844Trophy" /></p>
 
 
 
