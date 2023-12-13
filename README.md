@@ -15,7 +15,7 @@
  <a href="https://www.linkedin.com/in/zayar-naing-525b82296/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ZayarNaing"/>
  </a>
- <a href="https://www.telegram.org/zayarnaing912" target="_blank">
+ <a href="https://t.me/zayarnaing912" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="ZayarNaing" />
  </a>
  <a href="" target="_blank">
