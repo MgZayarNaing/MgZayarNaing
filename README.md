@@ -18,7 +18,7 @@
  <a href="https://t.me/zayarnaing912" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="ZayarNaing" />
  </a>
-  <a href="" target="_blank">
+  <a href="https://discordapp.com/users/1117664856653430805" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="ZayarNaing" />
  </a> 
  <a href="https://www.facebook.com/zayarnaing912" target="_blank">
