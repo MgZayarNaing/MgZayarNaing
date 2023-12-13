@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+ZayarNaing;I'm+22+years+old;I'm+from+Myanmar;I'm+Junior+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- ![ZayarNaing's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+![ZayarNaing's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
 <p align="center">
@@ -32,9 +32,6 @@
  <br />
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MgZayarNaing&theme=algolia" alt="MgZayarNaing" /></p>
-
-
-
 
 <div align="center"> 
 <a href = "mailto:zayarnaing.st@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
