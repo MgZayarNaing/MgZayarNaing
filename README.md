@@ -2,7 +2,7 @@
 - 👀 I’m interested in Django, React, ReactNative & Nextjs.
 - 🌱 I’m currently learning Django, Nextjs & React.
 - 💞️ I’m collaborating on E-commerece, POS & Business Websites.
-- 📫 You can reach me using accounts described on my profile.
+- 📫 You can reach me using accounts described on my profile. 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
