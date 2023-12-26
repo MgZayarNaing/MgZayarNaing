@@ -28,7 +28,6 @@
 
 ![ZayarNaing's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MgZayarNaing&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
-
 ### 👨‍💻 Top Languages Used:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MgZayarNaing&theme=nord_dark" alt="Top Languages by Repo" />
