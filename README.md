@@ -22,7 +22,7 @@
   <a href="https://discordapp.com/users/1117664856653430805" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="ZayarNaing" />
  </a> 
- <a href="https://www.facebook.com/zayarnaing912" target="_blank">
+ <a href="https://www.facebook.com/zayarnaing1011/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ZayarNaing"  />
   </a> 
 </p>
